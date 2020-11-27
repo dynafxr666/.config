@@ -1,0 +1,42 @@
+window:
+  padding:
+    x: 10
+    y: 10
+    dynamic_title: true
+font:
+  normal:
+    family: Fira Code
+    style: Regular
+  size: 10.0
+colors:
+  primary:
+    background: '#2e3440'
+    foreground: '#e1e0e8'
+  cursor:
+    text: '#e1e0e8'
+    cursor: '#e1e0e8'
+  normal:
+    black: '#2e3440'
+    red: '#605F82'
+    green: '#656685'
+    yellow: '#9899A9'
+    blue: '#BCBCD2'
+    magenta: '#C7B2C5'
+    cyan: '#C6C6D9'
+    white: '#e1e0e8'
+  bright:
+    black: '#9d9ca2'
+    red: '#605F82'
+    green: '#656685'
+    yellow: '#9899A9'
+    blue: '#BCBCD2'
+    magenta: '#C7B2C5'
+    cyan: '#C6C6D9'
+    white: '#e1e0e8'
+background_opacity: 0.75
+selection:
+  save_to_clipboard: false
+cursor:
+  style: Underline
+  unfocused_hollow: false
+live_config_reload: true
